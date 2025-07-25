@@ -14,7 +14,9 @@ Aloyce is a Roblox technology company based in the United Kingdom. We focus on t
 
 | Project Name | Description                          | Tech Stack             | Status        | Repository Link              |
 |--------------|--------------------------------------|------------------------|---------------|------------------------------|
-| ALPS (v1.0)  | Aloyce Licensing Protection Software | JavaScript             | Active        | [Repo Link](https://github.com/Aloyce-inc/aloyce-data)             |
+| ALPS (v1.0.1)| Aloyce Licensing Protection Software | JavaScript             | Active        | [Repo Link](https://github.com/Aloyce-inc/aloyce-data)             |
+| AIM (v1.0.0) | Aloyce Installation Manager          | LuaU                   | Active        | [Repo Link](https://github.com/Aloyce-inc/Aloyce-Installation-Manager)             |
+| blueOS (v1.0)| blueOS, an Aloyce Software           | LuaU                   | Active        | [Repo Link](https://github.com/Aloyce-inc/blueOS)             |
 
 ---
 

@@ -1,6 +1,6 @@
 # Aloyce
 
-![Group Logo or Banner](https://media.discordapp.net/attachments/1164279871787253861/1397886950421037097/AloyceBackground.jpg?ex=68835b2c&is=688209ac&hm=98ebafbb3b1869e29f46d425f5121f0a634c288c72eb167c209b9dcb4063b9a0&=&format=webp&width=2384&height=1386)
+![Group Logo or Banner](https://cdn.discordapp.com/attachments/1164279871787253861/1399058776459575346/AloyceBackground_1.jpg?ex=68879e85&is=68864d05&hm=a322aa1b4866896565e43bd42d7e97ee815d7846abc55a98bf01de0849abb43a&)
 
 ---
 

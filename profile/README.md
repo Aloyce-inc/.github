@@ -14,9 +14,9 @@ Aloyce is a Roblox technology company based in the United Kingdom. We focus on t
 
 | Project Name | Description                          | Tech Stack             | Status        | Repository Link              |
 |--------------|--------------------------------------|------------------------|---------------|------------------------------|
-| ALPS (v1.0.2)| Aloyce Licensing Protection Software | JavaScript             | Active        | [Repo Link](https://github.com/Aloyce-inc/aloyce-data)             |
-| AIM (v1.0.2) | Aloyce Installation Manager          | LuaU                   | Active        | [Repo Link](https://github.com/Aloyce-inc/Aloyce-Installation-Manager)             |
-| blueOS (v1.0)| blueOS, an Aloyce Software           | LuaU                   | Active        | [Repo Link](https://github.com/Aloyce-inc/blueOS)             |
+| ALPS (v1.0.2)| Aloyce Licensing Protection Software | JavaScript             | Suspended     | [Repo Link](https://github.com/Aloyce-inc/aloyce-data)        |
+| AE (v0.0.1)  | Aloyce Ecosystem                     | LuaU                   | Suspended     | [Repo Link](https://github.com/Aloyce-inc/Aloyce-Ecosystem)   |
+| blueOS (v1.0)| blueOS, an Aloyce Software           | LuaU                   | Suspended     | [Repo Link](https://github.com/Aloyce-inc/blueOS)             |
 
 ---
 
@@ -25,12 +25,13 @@ Aloyce is a Roblox technology company based in the United Kingdom. We focus on t
 Interesting in contributing to Aloyce?
 
 - Reach out and Contact us: executive@aloyce.com
+- For careers at Aloyce, reach out at: careers@aloyce.com
 
 ---
 
 ## Events & Meetups
 
-Stay updated with our upcoming events, webinars, and meetups:
+Stay updated with our upcoming keynotes and meetings:
 
 No upcoming events
 
@@ -38,7 +39,7 @@ No upcoming events
 
 ## Resources
 
-- [Documentation](https://developer.aloyce.com)
+- [Documentation](https://developer.aloyce.com/documentation)
 
 ---
 

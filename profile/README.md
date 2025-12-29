@@ -1,9 +1,5 @@
 # Aloyce
 
-![Group Logo or Banner](https://cdn.discordapp.com/attachments/1164279871787253861/1399058776459575346/AloyceBackground_1.jpg?ex=68879e85&is=68864d05&hm=a322aa1b4866896565e43bd42d7e97ee815d7846abc55a98bf01de0849abb43a&)
-
----
-
 ## About Us
 
 Aloyce is a Roblox technology company based in the United Kingdom. We focus on technology products like a smartphone, laptop and revolutionary devices for games to use. We provide premium experience's for all, including our customers and those who play in an experience with Aloyce installed.

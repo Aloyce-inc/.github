@@ -1,5 +1,3 @@
-# Aloyce is currently facing a major service disruption on the Roblox platform. We are committed to recovering our services at this time. However, we are currently unsure an estimate time that our services would resume on the platform. Engineers are working hard behind the scenes to ensure our services come operational in a timely manner.
-
 # Aloyce
 
 ## About Us
@@ -47,4 +45,4 @@ No upcoming events
 
 ---
 
-© 2026. Aloyce Technologies Inc. All rights reserved.
+© 2026 Aloyce Technologies Inc. All rights reserved.
